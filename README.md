@@ -33,7 +33,7 @@ Chat-Insider/
 
 ## 🖼️ Screenshots
 
-(Screenshot 2025-04-26 090519.png)
+([Screenshot 2025-04-26 090519.png](https://github.com/piyush5093/ChatInsider/blob/master/Screenshot%202025-04-26%20090519.png?raw=true))
 
 (Screenshot 2025-04-26 090537.pn)
 
