@@ -31,16 +31,27 @@ Chat-Insider/
 
 ---
 
-## 🖼️ Screenshots
 
-([Screenshot 2025-04-26 090519.png](https://github.com/piyush5093/ChatInsider/blob/master/Screenshot%202025-04-26%20090519.png?raw=true))
 
-(Screenshot 2025-04-26 090537.pn)
 
-(Screenshot 2025-04-26 090652.png)
-(Screenshot 2025-04-26 090714.png)
 
-(Screenshot 2025-04-26 090739.png)
+## 📸 Screenshots
+
+### 🖼️ Screenshot 1  
+![Screenshot 1](https://github.com/piyush5093/ChatInsider/raw/master/Screenshot%202025-04-26%20090519.png)
+
+### 🖼️ Screenshot 2  
+![Screenshot 2](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090537.png)
+
+### 🖼️ Screenshot 3  
+![Screenshot 3](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090652.png)
+
+### 🖼️ Screenshot 4  
+![Screenshot 4](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090714.png)
+
+### 🖼️ Screenshot 5  
+![Screenshot 5](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090739.png)
+
 
 
 ---
