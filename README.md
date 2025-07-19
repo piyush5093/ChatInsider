@@ -41,16 +41,15 @@ Chat-Insider/
 ![Screenshot 1](https://github.com/piyush5093/ChatInsider/raw/master/Screenshot%202025-04-26%20090519.png)
 
 ### 🖼️ Screenshot 2  
-![Screenshot 2](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090537.png)
+![Screenshot 2](https://github.com/piyush5093/ChatInsider/raw/master/Screenshot%202025-04-26%20090537.png)
 
 ### 🖼️ Screenshot 3  
-![Screenshot 3](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090652.png)
+![Screenshot 3](https://github.com/piyush5093/ChatInsider/raw/master/Screenshot%202025-04-26%20090652.png)
 
 ### 🖼️ Screenshot 4  
-![Screenshot 4](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090714.png)
-
+![Screenshot 4](https://github.com/piyush5093/ChatInsider/raw/master/Screenshot%202025-04-26%20090714.png)
 ### 🖼️ Screenshot 5  
-![Screenshot 5](https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202025-04-26%20090739.png)
+![Screenshot 5](https://github.com/piyush5093/ChatInsider/raw/master/Screenshot%202025-04-26%20090739.png)
 
 
 
